@@ -1,0 +1,17 @@
+PS C:\Users\Pheeb\workspace\Test123> git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Writing objects: 100% (3/3), 285 bytes | 285.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/PheebeDeshapogu/Test123.git
+   f242132..d2bbded  main -> main
+PS C:\Users\Pheeb\workspace\Test123> git add .\README.md
+PS C:\Users\Pheeb\workspace\Test123> git commit -m "SecondCommi1"
+[main 80969e2] SecondCommi1
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS C:\Users\Pheeb\workspace\Test123> git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Writing objects: 100% (3/3), 296 bytes | 296.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/PheebeDeshapogu/Test1
