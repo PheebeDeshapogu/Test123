@@ -1,5 +1,4 @@
 logo
 Sign In
 Email address
-Password
 Forgot your password?
